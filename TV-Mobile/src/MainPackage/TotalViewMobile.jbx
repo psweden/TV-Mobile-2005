@@ -1,0 +1,75 @@
+[PropertyInfo]
+aboutForm,javax.microedition.lcdui.Form,false,false, , ,false,<default>
+aboutFormBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+alertEditSettings,javax.microedition.lcdui.Alert,false,false, , ,false,<default>
+alertLoggOff,javax.microedition.lcdui.Alert,false,false, , ,false,<default>
+alertSender,javax.microedition.lcdui.Alert,false,false, , ,false,<default>
+aterDatum,javax.microedition.lcdui.TextField,false,false, , ,false,<default>
+aterDatumBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+aterDatumForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+aterDatumInfoCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+aterDatumInfoForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+aterDatumSendCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+aterKlockanBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+aterKlockanForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+aterKlockanInfoCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+aterKlockanInfoForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+aterKlockanMin,javax.microedition.lcdui.TextField,false,false, , ,false,<default>
+aterKlockanSendCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+aterKlockanTim,javax.microedition.lcdui.TextField,false,false, , ,false,<default>
+displayen,javax.microedition.lcdui.Display,false,false, , ,false,<default>
+editInfoSettingBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+editSettingBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+editSettingCancelCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+editSettingForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+editSettingInfoCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+editSettingInfoForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+editSettingSaveCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+editSettingsInfoForm,javax.microedition.lcdui.Form,false,false, , ,false,<default>
+editSmsNumber,javax.microedition.lcdui.TextField,false,false, , ,false,<default>
+editUserName,javax.microedition.lcdui.TextField,false,false, , ,false,<default>
+editUserPassWord,javax.microedition.lcdui.TextField,false,false, , ,false,<default>
+exitListCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+fontFace,javax.microedition.lcdui.Font,false,false, , ,false,<default>
+goToListAboutFormCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+goToListHelpFormCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+goToListLoginLogInFormCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+helpForm,javax.microedition.lcdui.Form,false,false, , ,false,<default>
+helpFormBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+imageItem1,javax.microedition.lcdui.ImageItem,false,false, , ,false,<default>
+infoAterDatumBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+infoAterDatumForm,javax.microedition.lcdui.Form,false,false, , ,false,<default>
+infoAterKlockanBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+infoAterKlockanForm,javax.microedition.lcdui.Form,false,false, , ,false,<default>
+listan,javax.microedition.lcdui.List,false,false, , ,false,<default>
+loggInCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+logInbackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+logInForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+loginForm,javax.microedition.lcdui.Form,false,false, , ,false,<default>
+lunchInfoBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+lunchInfoForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+lunchList,javax.microedition.lcdui.List,false,false, , ,false,<default>
+lunchListBackCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+lunchListInfoCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+lunchListSendCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+passWord,String,false,false, , ,false,<default>
+recStore,javax.microedition.rms.RecordStore,false,false, , ,false,<default>
+sendListCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+server,ConnectFactory.ConnectServer,false,false, , ,false,<default>
+settingsCancelCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+settingsChangeCommand,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+settingsForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+sms,String,false,false, , ,true,<default>
+SMSNumber,String,false,false, , ,true,<default>
+smsNumber,String,false,false, , ,false,<default>
+textInfoAboutForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+textInfoHelpForm,javax.microedition.lcdui.Form,false,false, , ,true,<default>
+thCmd,javax.microedition.lcdui.Command,false,false, , ,false,<default>
+Uname,String,false,false, , ,false,<default>
+userName,javax.microedition.lcdui.TextField,false,false, , ,false,<default>
+userPassWord,javax.microedition.lcdui.TextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
